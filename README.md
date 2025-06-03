@@ -7,7 +7,7 @@ This project applies classification algorithms to predict whether a loan applica
 - Logistic Regression and Decision Tree models
 - Evaluation using accuracy and ROC-AUC
 
-📄 [Click here to view the full project report (PDF)](https://drive.google.com/your-public-link)
+[Click here to view the full project report (PDF)](https://drive.google.com/your-public-link)
 
 ## Dataset
 Sample loan dataset from [Kaggle/UCI/Your source]
