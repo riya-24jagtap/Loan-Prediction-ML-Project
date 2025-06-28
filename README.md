@@ -1,13 +1,6 @@
-# Loan Prediction Using Machine Learning
+I worked on a classification model to predict whether a loan application would get approved, based on factors like applicant income, credit history, and loan amount.
+Tools Used: Python, Pandas, Scikit-learn
+Achieved an accuracy of 77.64% using logistic regression
+📎 Full notebook and report attached below.
 
-This project applies classification algorithms to predict whether a loan application will be approved.
-
-## Features
-- Data cleaning and feature engineering
-- Logistic Regression and Decision Tree models
-- Evaluation using accuracy and ROC-AUC
-
-[Click here to view the full project report (PDF)](https://drive.google.com/your-public-link)
-
-## Dataset
-Sample loan dataset from [Kaggle/UCI/Your source]
+#MachineLearning #DataScience #Python #LoanPrediction #MLProject
